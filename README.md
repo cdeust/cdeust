@@ -8,4 +8,6 @@ Open source: [DeusData/codebase-memory-mcp #1832](https://github.com/DeusData/co
 
 How Cortex stores what Claude remembers, every claim linked to the source: [Where Claude's memories go](https://ai-architect.tools/notes/how-cortex-remembers).
 
+Five more tools traced the same way, each claim linked to the lines that implement it: [Cortex Viz](https://ai-architect.tools/projects/cortex-viz) · [Session Optimizer](https://ai-architect.tools/projects/session-optimizer) · [Codebase](https://ai-architect.tools/projects/codebase) · [Spec](https://ai-architect.tools/projects/spec) · [Zetetic Agents](https://ai-architect.tools/projects/zetetic). The losses are in there too: one evaluation suite returns NOT PRODUCTION-GRADE against its own target, one commit gate can be configured off, one session banner states three wrong numbers out of four.
+
 Tools: [Cortex](https://github.com/cdeust/Cortex) · [Zetetic Agents](https://github.com/cdeust/zetetic-team-subagents) · [ai-architect.tools](https://ai-architect.tools)
